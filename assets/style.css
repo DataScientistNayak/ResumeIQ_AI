@@ -1,0 +1,93 @@
+/* ---------------------------------------
+   Main Layout
+--------------------------------------- */
+
+.block-container{
+    max-width:1300px;
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+
+/* ---------------------------------------
+   Buttons
+--------------------------------------- */
+
+.stButton>button{
+    width:100%;
+    height:48px;
+    border-radius:12px;
+    font-size:18px;
+    font-weight:600;
+    transition:0.25s ease;
+}
+
+.stButton>button:hover{
+    transform:translateY(-2px);
+}
+
+
+/* ---------------------------------------
+   Text Areas
+--------------------------------------- */
+
+textarea{
+    font-size:15px;
+    line-height:1.6;
+}
+
+
+/* ---------------------------------------
+   Metric Cards
+--------------------------------------- */
+
+div[data-testid="stMetric"]{
+    padding:15px;
+    border-radius:12px;
+    border:1px solid rgba(120,120,120,.2);
+}
+
+
+/* ---------------------------------------
+   Expander
+--------------------------------------- */
+
+details{
+    border-radius:10px;
+}
+
+
+/* ---------------------------------------
+   Tabs
+--------------------------------------- */
+
+button[role="tab"]{
+    font-weight:600;
+}
+
+
+/* ---------------------------------------
+   File Uploader
+--------------------------------------- */
+
+section[data-testid="stFileUploader"]{
+    border-radius:12px;
+}
+
+
+/* ---------------------------------------
+   DataFrames
+--------------------------------------- */
+
+div[data-testid="stDataFrame"]{
+    border-radius:10px;
+}
+
+
+/* ---------------------------------------
+   Success / Warning / Error Messages
+--------------------------------------- */
+
+div[data-baseweb="notification"]{
+    border-radius:10px;
+}
