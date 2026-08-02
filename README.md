@@ -170,55 +170,41 @@ Reports include:
 
 ## Home Dashboard
 
-<img src="assets/screenshots/home.png"/>
+<img width="882" height="394" alt="Screenshot 2026-08-02 221345" src="https://github.com/user-attachments/assets/44226999-68de-4bf4-adea-2ab572ba200f" />
+<img width="882" height="437" alt="Screenshot 2026-08-02 221402" src="https://github.com/user-attachments/assets/9628181b-94d7-4cbc-bc37-e3eb3eb0955a" />
 
 ---
 
 ## Resume Analysis
 
-<img src="assets/screenshots/resume_analysis.png"/>
-
----
-
-## ATS Score
-
-<img src="assets/screenshots/ats_score.png"/>
-
----
-
-## Skill Detection
-
-<img src="assets/screenshots/skills.png"/>
+<img width="882" height="431" alt="Screenshot 2026-08-02 221444" src="https://github.com/user-attachments/assets/b8238cbf-53e7-438e-bcb8-802d2e42d5e8" />
+<img width="887" height="407" alt="Screenshot 2026-08-02 221459" src="https://github.com/user-attachments/assets/99219313-5ec3-476f-a6c4-445c5f944980" />
 
 ---
 
 ## AI Resume Improvement
 
-<img src="assets/screenshots/improvement.png"/>
-
----
-
-## Job Match
-
-<img src="assets/screenshots/job_match.png"/>
+<img width="905" height="436" alt="Screenshot 2026-08-02 221546" src="https://github.com/user-attachments/assets/79c720cb-8e5f-4861-85c2-431642e5a395" />
 
 ---
 
 ## Resume Chat
 
-<img src="assets/screenshots/chat.png"/>
+<img width="896" height="389" alt="Screenshot 2026-08-02 221853" src="https://github.com/user-attachments/assets/0a66c642-8f61-4296-b997-8e43e4d9e8df" />
+<img width="893" height="411" alt="Screenshot 2026-08-02 221909" src="https://github.com/user-attachments/assets/4f5ac86f-c806-4270-8473-de8c60891a27" />
 
 ---
 
 ## Export Reports
-
-<img src="assets/screenshots/export.png"/>
+<img width="881" height="360" alt="Screenshot 2026-08-02 221735" src="https://github.com/user-attachments/assets/6b683cbf-e848-4f89-a6c2-614931952ae2" />
+<img width="879" height="338" alt="Screenshot 2026-08-02 221755" src="https://github.com/user-attachments/assets/6d9151a2-7cee-41d7-914a-d329e00daa2b" />
+<img width="880" height="397" alt="Screenshot 2026-08-02 221809" src="https://github.com/user-attachments/assets/c35856a3-f2c5-4759-ad05-0ef14be03c4b" />
 
 ---
 
 ## Analysis History
 
-<img src="assets/screenshots/history.png"/>
+<img width="884" height="411" alt="Screenshot 2026-08-02 221608" src="https://github.com/user-attachments/assets/f281f0b0-b488-40af-be5c-f4eb09e5341a" />
 
 ---
 
